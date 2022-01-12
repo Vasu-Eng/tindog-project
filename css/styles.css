@@ -193,9 +193,6 @@ color: #ff4c68;
     h3 {
         font-size: large;
     }
-    .download-button{
-        font-size: medium;
-    }
     .navbar-brand{
         font-size: x-large;
     }
@@ -226,10 +223,7 @@ color: #ff4c68;
     #pricing{
         padding: 3%;
     }
-    .download-button{
-        font-size: x-large;
-        
-    }
+    
     .navbar-brand{
         font-size: x-large;
     }
